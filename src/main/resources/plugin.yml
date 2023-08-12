@@ -1,0 +1,8 @@
+name: LuckySkyblock
+version: '${project.version}'
+main: me.tailerr.luckyskyblock.LuckySkyblock
+api-version: 1.20
+depend: [ Vault ]
+authors: [ tailerr ]
+description: Skyblock Core packed with features
+website: https://github.com/tailer-dev/LuckySkyblock
